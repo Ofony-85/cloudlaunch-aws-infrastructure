@@ -123,7 +123,7 @@ cloudlaunch-db-sg – MySQL (3306) allowed only from app subnet.
 
 🛡️ **IAM Permissions for VPC**
 
-Attached policy to cloudlaunch-user for VPC Read-Only:
+Attached policy to ofoncloudlaunch-user for VPC Read-Only:
 
 json
 
