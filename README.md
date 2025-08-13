@@ -12,7 +12,7 @@ This repository contains the setup steps and configurations for **CloudLaunch**,
 ## 📌 Task 1 – S3 Static Website Hosting
 
 ### Objective
-Host a static website on **Amazon S3** with a dedicated IAM user (`cloudlaunch-user`) having **read-only** access to the bucket.
+Host a static website on **Amazon S3** with a dedicated IAM user (`ofoncloudlaunch-user`) having **read-only** access to the bucket.
 
 ### Steps Taken
 
