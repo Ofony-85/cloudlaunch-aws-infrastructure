@@ -137,7 +137,8 @@ json
         "ec2:DescribeSubnets",
         "ec2:DescribeRouteTables",
         "ec2:DescribeSecurityGroups",
-        "ec2:DescribeInternetGateways"
+        "ec2:DescribeInternetGateways",
+"ec2:DescribeNetworkAcls"
       ],
       "Resource": "*"
     }
