@@ -145,18 +145,7 @@ json
   ]
 }
 
-
-🧾 **AWS Account Details**
-
-Console URL: https://477094921093.signin.aws.amazon.com/console
-
-Account ID: 477094921093
-
-IAM User: ofoncloudlaunch-user
-
-Password: Ofonime25#
-
-Enforce Change Password on First Login: ✅ Enabled
+I Enforced Change Password on First Login: ✅ Enabled
 
 
 ✅ **Testing
